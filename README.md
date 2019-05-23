@@ -6,12 +6,12 @@ forked from MonniMcGee Stat 6306
 
 
 data science profile(?)
-category rank
-1 Computer Programming    2
-2                 Math    2
-3           Statistics    3
-4     Machine Learning    1
-5     Domain Expertise    4
-6        Communication    4
-7  Presentation Skills    3
+
+ Computer Programming    2
+                 Math    2
+           Statistics    3
+     Machine Learning    1
+     Domain Expertise    4
+        Communication    4
+  Presentation Skills    3
 
